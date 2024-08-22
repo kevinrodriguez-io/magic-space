@@ -14,4 +14,4 @@ keywords = ["solana", "borsh", "space", "account"]
 categories = ["finance", "cryptography"]
 
 [dependencies]
-magic-space-derive = { path = "../magic-space-derive", version = "*" }
+magic-space-derive = { path = "../magic-space-derive", version = "^0.1.0" }
