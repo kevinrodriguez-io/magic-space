@@ -5,7 +5,7 @@
 [![Crates.io](https://img.shields.io/crates/v/magic-space.svg)](https://crates.io/crates/magic-space)
 [![Docs.rs](https://docs.rs/magic-space/badge.svg)](https://docs.rs/magic-space)
 
-Derive macro for Solana program state structs that automatically calculates the space required for the struct.
+Derive macro for Solana program state structs that automatically calculates the space required for a struct or enum.
 
 Code mostly taken from `@coral-xyz/anchor` project, modified to work without the anchor crate.
 
