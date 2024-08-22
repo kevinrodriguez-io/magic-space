@@ -1,0 +1,7 @@
+[package]
+name = "magic-space"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+magic-space-derive = { path = "../magic-space-derive", version = "*" }
