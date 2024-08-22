@@ -4,7 +4,6 @@
 
 [![Crates.io](https://img.shields.io/crates/v/magic-space.svg)](https://crates.io/crates/magic-space)
 [![Docs.rs](https://docs.rs/magic-space/badge.svg)](https://docs.rs/magic-space)
-[![License](https://img.shields.io/crates/l/magic-space.svg)](
 
 Derive macro for Solana program state structs that automatically calculates the space required for the struct.
 
