@@ -2,6 +2,15 @@
 name = "magic-space"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kevin Rodriguez <_@kevinrodriguez.io>"]
+description = "Like anchor's InitSpace but without the dependency on anchor."
+license = "MIT"
+repository = "https://github.com/kevinrodriguez-io/magic-space"
+homepage = "https://github.com/kevinrodriguez-io/magic-space"
+documentation = "https://docs.rs/magic-space"
+readme = "../../README.md"
+keywords = ["solana", "borsh", "space", "account"]
+categories = ["finance", "cryptography"]
 
 [dependencies]
 magic-space-derive = { path = "../magic-space-derive", version = "*" }
