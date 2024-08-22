@@ -1,8 +1,17 @@
 [package]
-publish = true
 name = "magic-space-derive"
+publish = true
 version = "0.1.0"
 edition = "2021"
+authors = ["Kevin Rodriguez <_@kevinrodriguez.io>"]
+description = "Derive macro meant to be used with magic-space. Like anchor's InitSpace but without the dependency on anchor."
+license = "MIT"
+repository = "https://github.com/kevinrodriguez-io/magic-space-derive"
+homepage = "https://github.com/kevinrodriguez-io/magic-space-derive"
+documentation = "https://docs.rs/magic-space-derive"
+readme = "../../README.md"
+keywords = ["solana", "borsh", "space", "account"]
+categories = ["finance", "cryptography"]
 
 [lib]
 proc-macro = true
